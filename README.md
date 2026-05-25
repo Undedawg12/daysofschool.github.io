@@ -1,4 +1,13 @@
 <!DOCTYPE html>
+<!--
+  GitHub Pages Ready
+
+  1. Save this file as index.html
+  2. Upload it to a GitHub repository
+  3. Go to Settings > Pages
+  4. Select Deploy from branch > main
+  5. Your website will go live automatically
+-->
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
